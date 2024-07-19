@@ -1,4 +1,8 @@
 export const Components6 = () => {
   const newwssws = () => {};
-  return <>hello piter</>;
+
+  const newwssws22 = () => {
+    return 'privet';
+  };
+  return <>hello pitereeee</>;
 };
