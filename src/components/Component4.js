@@ -5,7 +5,7 @@ export const Component4 = () => {
   const w3w = () => {
     return 'Privet';
   };
-  const w2w = () => {
+  const wowowowowowo = () => {
     return 'Privet';
   };
 
