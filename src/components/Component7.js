@@ -1,1 +1,4 @@
-export const Components7 = () => <div>Hello hello</div>;
+export const Components7 = () => {
+  const retere = () => {};
+  return <div>Hello hello</div>;
+};
