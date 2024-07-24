@@ -7,21 +7,6 @@ export const Components6 = () => {
   return <>hello pitereeee</>;
 };
 
-export const getWhateverRequest = () =>
-  new RestRequest().getRequest({
-    endpoint: TODO_ENDPOINT,
-    responseSchema: Joi.object({
-      todos: Joi.array().items(
-        Joi.object({
-          id: Joi.number(),
-          title: Joi.string(),
-          description: Joi.string(),
-          date: Joi.string(),
-        }),
-      ),
-    }),
-  });
-
 export const Todos: FC = () => {
   useEffect(() => {
     getWhateverRequest().then(data => console.log(data));

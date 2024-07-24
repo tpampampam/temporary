@@ -2,10 +2,8 @@ export const Component4 = () => {
   const ww = () => {
     return 'Privet';
   };
-  const w3w = () => {
-    return 'Privet';
-  };
-  const wowowowowowo = () => {
+
+  const wwee = () => {
     return 'Privet';
   };
 
