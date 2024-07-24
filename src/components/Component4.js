@@ -3,5 +3,9 @@ export const Component4 = () => {
     return 'Privet';
   };
 
+  const wwe = () => {
+    return 'Privet';
+  };
+
   return <h1>Privet</h1>;
 };
