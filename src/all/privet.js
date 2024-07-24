@@ -1,0 +1,3 @@
+const privet = () => {};
+
+const ololo = {};
