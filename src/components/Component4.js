@@ -3,7 +3,7 @@ export const Component4 = () => {
     return 'Privet';
   };
 
-  const wwe = () => {
+  const wwee = () => {
     return 'Privet';
   };
 
