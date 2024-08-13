@@ -7,5 +7,7 @@ export const Component4 = () => {
     return 'Privet';
   };
 
+  const date = '13.08 7:16';
+
   return <h1>Privet</h1>;
 };
